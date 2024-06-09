@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.slick-next{
+    display: none !important;
+}
+
+.slick-prev{
+    display: none !important;
+}
+
+.ajay{
+    width: 100%;
+   
+}
